@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CartonBox
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Javascript and Rust
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m not looking to collaborate
 - 📫 How to reach me epic.carton.box@gmail.com
 - 😄 Pronouns: Carton Box
 - ⚡ Fun fact: I drank distilled water (bad)
